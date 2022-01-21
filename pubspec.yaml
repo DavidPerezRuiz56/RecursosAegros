@@ -1,6 +1,6 @@
 name: recursos_aegros
 description: recursos comunes del proyecto aegros.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/DavidPerezRuiz56/AegrosRecursos
 
 environment:
